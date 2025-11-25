@@ -9,7 +9,7 @@
 **Download do projeto**
 > git clone https://github.com/h2oluiz/dot_group.git
 > 
-> cd teste/teste_dot
+> cd dot_group/teste_dot
 
 **instalar requirements**
 > pip install -r requirements.txt
@@ -24,17 +24,17 @@
 > python manage.py runserver
 
 **documentacao api**
-http://localhost:8000 - swagger doc
+http://localhost:8000
 
 **executar testes **
 > python manage.py test
 > coverage run --source='.' manage.py test -v 2 && coverage report
 
 ### Questões 2: 
->Notebook questao_2.ipynb
+>Notebook questao_02.ipynb
 
 ### Questões 3:
->Notebook questao_3.ipynb
+>Notebook questao_03.ipynb
 
 
 
