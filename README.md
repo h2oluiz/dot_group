@@ -7,7 +7,7 @@
 > source .env/bin/activate
 
 **Download do projeto**
-> git clone https://github.com/h2oluiz/teste_dot.git
+> git clone https://github.com/h2oluiz/dot_group.git
 > 
 > cd teste/teste_dot
 
@@ -30,10 +30,11 @@ http://localhost:8000 - swagger doc
 > python manage.py test
 > coverage run --source='.' manage.py test -v 2 && coverage report
 
+### Questões 2: 
+>Notebook questao_2.ipynb
 
-
-### Questões 2 e 3: 
->Notebook questao_2.ipynb questao_3.ipynb
+### Questões 3:
+>Notebook questao_3.ipynb
 
 
 
